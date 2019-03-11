@@ -1,0 +1,9 @@
+<library path="libqt_rviz_overlay">
+    <class name="qt_rviz_overlay/Overlay"
+           type="qt_rviz_overlay::DisplayWrapper"
+           base_class_type="rviz::Display">
+        <description>
+            Overlay experiment using Qt.
+        </description>
+    </class>
+</library>
